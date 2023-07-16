@@ -1,6 +1,6 @@
 # WhatsApp Desktop [![Build Status](https://travis-ci.org/Enrico204/Whatsapp-Desktop.svg?branch=master)](https://travis-ci.org/Enrico204/Whatsapp-Desktop)
 
-## This is whatsapp desktop repo unitll 2018
+## This is whatsapp desktop repo unitll 2018.
 
 WhatsApp desktop client, based on the official WhatsApp web app. Build with [Electron](http://electron.atom.io/).  
 
